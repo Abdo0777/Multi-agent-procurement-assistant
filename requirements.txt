@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+scrapegraph-py
+tavily-python
+python-dotenv
+streamlit
+litellm
+google-genai
