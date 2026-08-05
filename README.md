@@ -55,11 +55,15 @@ User Requirements (Streamlit form)
 
 ## 📸 Screenshots
 
+<img width="1794" height="739" alt="multi_agent" src="https://github.com/user-attachments/assets/765adbd2-414b-49f8-8b2d-26bccacd1956" />
+
 **Comparison Table**
 
-![Comparison Table](comparison_table.png)
+<img width="1662" height="526" alt="analysis" src="https://github.com/user-attachments/assets/ae32ef04-3075-43fb-9910-3879185a0970" />
 
 **Final Recommendation**
+
+<img width="1670" height="444" alt="final rec" src="https://github.com/user-attachments/assets/d344a575-2f76-4bd3-b7a5-84399c708813" />
 
 ![Final Recommendation](final_rec.png)
 
