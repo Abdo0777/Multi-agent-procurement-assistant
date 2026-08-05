@@ -65,7 +65,6 @@ User Requirements (Streamlit form)
 
 <img width="1670" height="444" alt="final rec" src="https://github.com/user-attachments/assets/d344a575-2f76-4bd3-b7a5-84399c708813" />
 
-![Final Recommendation](final_rec.png)
 
 ---
 
