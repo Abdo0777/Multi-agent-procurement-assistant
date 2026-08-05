@@ -132,9 +132,3 @@ User Requirements (Streamlit form)
   delays; the app retries automatically on rate-limit errors.
 - Product data accuracy depends on what's scraped live from the web — always verify prices and
   availability before making a purchasing decision.
-
----
-
-## 📄 License
-
-This project is provided as-is for educational and portfolio purposes.
